@@ -1,0 +1,38 @@
+def fråga1():
+  print ("Hur gammal är du ? : ")
+  print ("Är du mellan 8-12 år?")
+  print ("  ")
+  a = input("Ja eller Nej?\nSvar: ")
+  if a == "ja":
+    print(" ")
+    print("Du är för ung, next please. Jalla jiääääääp!!")
+  elif a == "nej": 
+    print(" ")
+    print("Good daddy you are at level 2 ")
+    print(" ")
+    print("-------------------------------------------")
+    print(" ")
+    print("Gillar du forre? ")
+    b = input("Ja eller Nej?\nSvar: ")
+    if b=="ja": 
+      print (" ")
+      print ("Gå och lär dig CS:GO och bli vuxen din cos. ")
+    elif b=="nej":
+      print (" ")
+      print ("Akho 100 gubbe😈 ") 
+      print (" ")
+      print ("-------------------------------------------")
+      print (" ")
+      print ("Har du bazz lään?")
+      c = input ("Ja eller Nej?\nSvar: ")
+      if c == "nej":
+        print (" ")
+        print ("De lungt bror men när du får den kom tillbaka och forsätt på våran quiz.")
+      elif c==("ja"):
+          print (" ")
+          print ("Min beroder han får den hur enkelt som hälst 🖖") )
+          print (" ")
+          print ("-------------------------------------------")
+          print (" ")
+          print ("")
+          d = input("Ja eller Nej?\nSvar: ")
